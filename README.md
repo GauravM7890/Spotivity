@@ -14,5 +14,3 @@ Check your friends' Spotify activity from your phone. Use [**Spotivity**](https:
 ![4](https://github.com/arhaanb/spotivity-web/assets/49993666/1313a1ba-fc32-4f66-a04a-5fec18cd18f3)
 
 <br />
-
-Made with 💖 by <a href="//arhaanb.com" target="_blank">Arhaan Bahadur</a>
